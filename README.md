@@ -9,7 +9,7 @@
 ## For setup it
 
 1. fork this repo
-2. go to gitpod.io/#"the forked repo url", example: https://gitpod.io/#https://github.com/Username/repo-name
+2. go to gitpod.io/#"the forked repo url", example: https://gitpod.io/#https://github.com/strongreasons/test-gitpod
 3. enjoy your monthly 50hrs
 
 ## Some Info
